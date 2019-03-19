@@ -451,23 +451,23 @@ A:link {
    width: 330px;
     overflow-y: scroll;
 }
-#style-1::-webkit-scrollbar{
+#Scroll-style1 Scroll-style2 Scroll-style3::-webkit-scrollbar{
     width: 5px;
     background-color: #eeeeee3b;
 
 }
-#style-1::-webkit-scrollbar-thumb{
+#Scroll-style1 Scroll-style2 Scroll-style3::-webkit-scrollbar-thumb{
     background-color: rgb(21, 172, 172);
     border-radius: 10px;
 }
-#style-1::-webkit-scrollbar-track{
+#Scroll-style1 Scroll-style2 Scroll-style3::-webkit-scrollbar-track{
      padding-top: 30px;
     /* -webkit-box-shadow: inset 0 0 6px rgba (0,0,0,0.3); */
     background-color: #c6e1ecb6;
     border-radius: 10%;
 
 }
-#style-1::-webkit-resizer{
+#Scroll-style1::-webkit-resizer{
     width: 120px;
 }
 
@@ -514,6 +514,7 @@ padding-right: 30px ;
 .slider-border-b{
     margin-top: 20px;
     margin-right: 6px;
+
     height: 3px;
     width: 65px;
     background:#fba2a2;
@@ -668,8 +669,13 @@ padding-right: 30px ;
 @media(max-width:870px){
     .section12{
         background: rgba(220, 220, 220, 0.192);
-           
     }
+}
+.item-border{
+    height: 3px;
+    width: 65px;
+    margin: 12px auto 10px;
+    background:#ff8a8a;
 
 }
 .section12_profesion{
