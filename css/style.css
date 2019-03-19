@@ -1,9 +1,7 @@
 .All-Wids{
     max-width: 1920px;
     margin: 0 auto;
-   
 }
-
 .header{
     padding-top: 40px;
     padding-bottom: 40px;
@@ -24,7 +22,7 @@
     list-style: none;
     margin: 0px 0 5px;
     padding: 0px 0 5px;
-    text-align:top;
+    /*text-align: top;*/
     margin-bottom: 110px;
 }
 .Nav_icon{
@@ -202,7 +200,7 @@ A:link {
     border-top: 3px solid rgba(173, 31, 31, 0.548);
     font-family: 'Montserrat:900i', sans-serif; 
 }
-.section_h4{
+.subtitle{
     padding-top: 120px;
     text-align: center;
     font-size: 32px;
@@ -661,7 +659,7 @@ padding-right: 30px ;
     background-size: cover;
 }
 .section12{
-    background: url(../img/11_bg.jpg) no-repeat;
+    background: url(img/11_bg-compressor.jpg) no-repeat;
     /* width: 100%;  */
     text-align: center;
      
