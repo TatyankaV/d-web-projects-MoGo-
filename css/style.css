@@ -91,7 +91,7 @@ nav label{
 
         display: flex;
          flex-direction: column;
-         background: lightcoral;
+         background: rgba(215, 114, 114, 0.75);
         position: absolute;
     }
 
@@ -609,7 +609,7 @@ padding-right: 30px ;
 }
 .section10{
     margin: 0 auto;
-    all: center;
+
 }
 .section10_galery{
     padding-top: 60px;
@@ -668,7 +668,6 @@ padding-right: 30px ;
     margin: 0 auto 60px;
 }
 .section12{
-    background: url(img/11_bg-compressor.jpg) no-repeat;
     text-align: center;
 }
 @media(max-width:870px){
